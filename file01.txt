@@ -1,0 +1,8 @@
+hello guys....
+lets get started...
+
+int a=10;
+int b=20;
+int c;
+c = a + b;
+printf("%d",c);
